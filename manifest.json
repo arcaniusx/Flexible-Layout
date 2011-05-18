@@ -1,0 +1,13 @@
+{
+  "name": "DC Universe Online Character Guide",
+  "description": "description",
+  "version": "0.0.0.1",
+  "icons": {
+    "128": "images/icons/icon_128.png"
+  },
+  "app": {
+    "launch": {
+      "local_path": "index.html"
+    }
+  }
+}
